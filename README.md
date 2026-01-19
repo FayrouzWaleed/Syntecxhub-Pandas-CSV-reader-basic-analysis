@@ -17,7 +17,6 @@ The project focuses on practicing core pandas operations commonly used in data a
   - Phone Number
   - Date of Birth
   - Job Title
-- The dataset is stored in the `data/` folder.
 
 ---
 
@@ -35,7 +34,7 @@ The project focuses on practicing core pandas operations commonly used in data a
   - count
 - Filter rows based on specific conditions
 - Select and slice specific columns
-- Save the filtered dataset to a new CSV/Excel file
+- Save the filtered dataset to a new CSV file
 
 ---
 
